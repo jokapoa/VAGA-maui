@@ -1,4 +1,4 @@
-# VAGA-maui
+# VAGA- Mobile Developer - maui
 Mobile Developer (MAUI) – Mid-Level or Senior
 
 About the Company:
