@@ -2,7 +2,7 @@
 Mobile Developer (MAUI) – Mid-Level or Senior
 
 About the Company:
-A large multinational corporation with global operations, including an advanced research and development center located in Rio Grande do Sul, Brazil. Working in close collaboration with factories in Europe and the United States, the company leads innovative product development projects for the international market.
+A large multinational corporation with global operations, including an advanced research and development center located in Brazil. Working in close collaboration with factories in Europe and the United States, the company leads innovative product development projects for the international market.
 
 Main Responsibilities:
 
